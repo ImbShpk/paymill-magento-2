@@ -1,10 +1,10 @@
-PAYMILL-Magento-2 Extension for credit card and direct debit payments
+PAYMILL-Magento-2 Extension developed by Paymill's Official Partner IMB sh.p.k for credit card and direct debit payments
 ====================
 
 PAYMILL extension for Magento 2 compatible with: 2.0.x, 2.1.x (tested for 2.2.0). This extension installs two payment methods: Credit card and direct debit.
 
 ##### Note: This is an all new version of the PAYMILL Magento 2 Extension. 
-This extension is fully and actively maintained by Paymill Official Partner [IMB sh.p.k](http://www.imb.al/en/) [contact](mailto:magento@imb.al).
+This extension is fully and actively maintained by Paymill's Official Partner [IMB sh.p.k](http://www.imb.al/en/) [contact](mailto:magento@imb.al).
 
 ## Your Advantages
 * PCI DSS compatibility
