@@ -78,11 +78,7 @@ class Data extends \Magento\Framework\App\Helper\AbstractHelper
      */
     public function getSourceString ()
     {
-        $objectManager = \Magento\Framework\App\ObjectManager::getInstance();
-        $productMetadata = $objectManager->get(
-                'Magento\Framework\App\ProductMetadataInterface');
-        $version = $productMetadata->getVersion();
-        return $this->getVersion() . "_Magento_" . $version;
+        return "Imb_paymill_magento2_plugin";
     }
 
     /**
