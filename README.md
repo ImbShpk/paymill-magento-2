@@ -34,7 +34,7 @@ This extension is fully and actively maintained by Paymill's Official Partner [I
 
 Download the complete module by using the link below:
 
-[Latest Version](https://github.com/paymill/paymill-magento-2/archive/master.zip)
+[Latest Version](https://github.com/ImbShpk/paymill-magento-2/archive/master.zip)
 
 To install the extension merge the contents of this cloned repository with your Magento 2 installation.
 
